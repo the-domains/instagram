@@ -1,0 +1,28 @@
+name: Instagram
+favicon: null
+layout_spectrum: 0.5731614190153778
+typography_spectrum: 0.41756602260284126
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.1745347015094012
+  lightness: 0.3036526585929096
+  saturation: 0.6433260231278837
+  rhythmicContrast: 0.5771175129339099
+purpose: []
